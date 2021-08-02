@@ -13,9 +13,13 @@ You can contact me on [Website](https://king-m-a-kh.ir), and [Telegram](https://
 
 **I can do these:**
 - Python 3
-- Java/Kotlin
+- Kotlin
+- java
+- php
+- cs
+- html css
+- js
 - Android framework
-- Plain webdev
 
 ----------
 
