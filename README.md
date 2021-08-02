@@ -2,6 +2,8 @@
 
 
 <center> Hi there 👋, I'm a 14 y.o kid that likes to code, I started my coding journey at the age of 10. </center>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=king-m-a-kh-85&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 You can contact me on [Website](https://king-m-a-kh.ir), and [Telegram](https://t.me/king_M_A_KH).
 
@@ -19,7 +21,7 @@ You can contact me on [Website](https://king-m-a-kh.ir), and [Telegram](https://
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <h6>scratch BlockView</h6>
+- 🔭 I’m currently working on **scratch BlockView**
 - 🌱 I’m currently learning c
 - 👯 I’m looking to collaborate on java
 <!-- - 🤔 I’m looking for help with ... -->
@@ -29,8 +31,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-<h1>Statistic 🏅</h1> <img alt="Iyxan23's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=king-m-a-kh&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right"> 
+<h1>Statistic 🏅</h1> <img alt="Iyxan23's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=king-m-a-kh&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right"/> 
 
 **Currently Active Repositories:**
 - [scratch blockview](https://github.com/king-m-a-kh/scratch-blockView)
 - [php-compiler](https://github.com/king-m-a-kh/php-compiler)
+
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=king-m-a-kh-85&show_icons=true&theme=react&count_private=true"
+            alt="CortexTN's Github stats">
+    </a>
+    <a href="#">
+        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=king-m-a-kh-85&theme=react"
+            alt="CortexTN's Github commit streak">
+    </a>
+    <a href="https://wakatime.com/@CortexTN/">
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=king-m-a-kh-85&layout=compact&theme=react"
+            alt="CortexTN's Wakatime stats">
+    </a>
+</div>
