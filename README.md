@@ -1,4 +1,4 @@
- ### <center> Hi there 👋 </center>
+ ### <p align="center"> Hi there 👋 </p>
 
 <center> Hi there 👋, I'm a 14 y.o kid that likes to code, I started my coding journey at the age of 10. </center>
 
