@@ -37,17 +37,3 @@ Here are some ideas to get you started:
 - [scratch blockview](https://github.com/king-m-a-kh/scratch-blockView)
 - [php-compiler](https://github.com/king-m-a-kh/php-compiler)
 
-<div align="center" style="text-align:center">
-    <a href="#">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=king-m-a-kh-85&show_icons=true&theme=react&count_private=true"
-            alt="CortexTN's Github stats">
-    </a>
-    <a href="#">
-        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=king-m-a-kh-85&theme=react"
-            alt="CortexTN's Github commit streak">
-    </a>
-    <a href="https://wakatime.com/@CortexTN/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=king-m-a-kh-85&layout=compact&theme=react"
-            alt="CortexTN's Wakatime stats">
-    </a>
-</div>
