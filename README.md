@@ -1,6 +1,6 @@
- <center> Hi there 👋 </center>
+ ### <center> Hi there 👋 </center>
 
- Hi there 👋, I'm a 14 y.o kid that likes to code, I started my coding journey at the age of 10.
+<center> Hi there 👋, I'm a 14 y.o kid that likes to code, I started my coding journey at the age of 10. </center>
 
 You can contact me on [Website](https://king-m-a-kh.ir), and [Telegram](https://t.me/king_M_A_KH).
 
