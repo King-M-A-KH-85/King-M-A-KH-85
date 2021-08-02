@@ -33,8 +33,3 @@ Here are some ideas to get you started:
 **Currently Active Repositories:**
 - [scratch blockview](https://github.com/king-m-a-kh/scratch-blockView)
 - [php-compiler](https://github.com/king-m-a-kh/php-compiler)
-
-----------
-
-Forked from [ryenyuku](https://github.com/ryenyuku/ryenyuku)
-
