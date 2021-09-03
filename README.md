@@ -1,7 +1,7 @@
  ### Hi there 👋 
 
 
-<center> Hi there 👋, I'm a 14 y.o kid that likes to code, I started my coding journey at the age of 10. </center>
+<center> Hi there 👋, I'm a 15 y.o kid that likes to code, I started my coding journey at the age of 10. </center>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=king-m-a-kh-85&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
