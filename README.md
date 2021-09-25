@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iyxan23</h1>
+<h1 align="center">Hi 👋</h1>
 
 
 <p align="center"> Hi there 👋, I'm a 15 y.o kid that likes to code, I started my coding journey at the age of 10. </p>
@@ -7,7 +7,6 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=king-m-a-kh-85&row=1"/>
 </div>
-----------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,9 +30,6 @@
 </p>
 
 
-
-----------
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **BlockView , Dialog ,CodeIneu**
@@ -45,6 +41,7 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+----------
 
 <h1>Statistic 🏅</h1> <img alt="Iyxan23's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=king-m-a-kh&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right"/> 
 
