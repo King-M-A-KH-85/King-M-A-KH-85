@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Telegram](https://t.me/king_m_a_kh)
 
 # Statistic 🏅
-
 ![profile view](https://github-readme-stats.vercel.app/api?username=king-m-a-kh-85&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true)
-
+![king m a kh](https://github-readme-streak-stats.herokuapp.com?user=king-m-a-kh-85&theme=onedark&hide_border=true&background=00000000&stroke=80808080)
+![king m a kh](https://github-readme-stats.vercel.app/api/wakatime?username=king_M_A_KH&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true)
 # Currently Active Repositories
 
 - [code ineu](https://github.com/king-m-a-kh-85/code-ineu)
