@@ -46,16 +46,16 @@ A senior high school student who loves open source projects.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Codee**
-- 🌱 I’m currently learning js
-- 👯 I’m looking to collaborate on **java**
+- 🔭 I’m currently working on **code ineu**
+- 🌱 I’m currently learning node.js
+- 👯 I’m looking to collaborate on **java** , **php**
 - 📫 How to reach me: [Telegram](https://t.me/king_m_a_kh)
 
 # Statistic 🏅
 
-![profile view](https://github-readme-stats.vercel.app/api?username=king-m-a-kh&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true)
+![profile view](https://github-readme-stats.vercel.app/api?username=king-m-a-kh-85&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true)
 
 # Currently Active Repositories
 
-- [Blockly](https://github.com/king-m-a-kh-85/Blockly)
-- [AideLearn](https://github.com/king-m-a-kh-85/Aide_Learn)
+- [code ineu](https://github.com/king-m-a-kh-85/code-ineu)
+- [code ineu Android](https://github.com/king-m-a-kh-85/code-ineu-Android)
