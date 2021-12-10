@@ -6,6 +6,9 @@ Hi there 👋
 A senior high school student who loves open source projects.
  </p>
  </br>
+ 
+ 
+[![wakatime](https://wakatime.com/badge/user/43eac2f5-1234-4fd6-b3dc-18c096601467.svg)](https://wakatime.com/@43eac2f5-1234-4fd6-b3dc-18c096601467)
 
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=king-m-a-kh-85&row=1" alt="profile view"/>
 </div>
@@ -53,8 +56,6 @@ Here are some ideas to get you started:
 
 # Statistic 🏅
 ![profile view](https://github-readme-stats.vercel.app/api?username=king-m-a-kh-85&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true)
-![king m a kh](https://github-readme-streak-stats.herokuapp.com?user=king-m-a-kh-85&theme=onedark&hide_border=true&background=00000000&stroke=80808080)
-![king m a kh](https://github-readme-stats.vercel.app/api/wakatime?username=king_M_A_KH&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true)
 # Currently Active Repositories
 
 - [code ineu](https://github.com/king-m-a-kh-85/code-ineu)
