@@ -8,7 +8,7 @@ A senior high school student who loves open source projects.
  </br>
  
  
-[![wakatime](https://wakatime.com/badge/user/43eac2f5-1234-4fd6-b3dc-18c096601467.svg)](https://wakatime.com/@43eac2f5-1234-4fd6-b3dc-18c096601467)
+[![code time](https://wakatime.com/badge/user/43eac2f5-1234-4fd6-b3dc-18c096601467.svg)](https://wakatime.com/@43eac2f5-1234-4fd6-b3dc-18c096601467)
 
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=king-m-a-kh-85&row=1" alt="profile view"/>
 </div>
