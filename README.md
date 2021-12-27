@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Blockify**
 - 🌱 I’m currently learning js
-- 👯 I’m looking to collaborate on **java** , **kitlin** , **php**
+- 👯 I’m looking to collaborate on **java** , **Kotlin** , **php** , **js**
 - 📫 How to reach me: [Telegram](https://t.me/king_m_a_kh)
 
 # Statistic 🏅
