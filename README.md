@@ -34,7 +34,7 @@
 
 </p>
 
-## ❤ Views , Followers and dev time
+## Views , Followers and dev time
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=king-m-a-kh-85">
 </a>
