@@ -30,7 +30,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://t.me/king_m_a_kh"><img src="https://telegram.org/img/t_logo.svg?1"/></a>
+<a href = "https://t.me/king_m_a_kh"><img src="https://telegram.org/img/t_logo.svg?1" width="30px" height="30px"/></a>
 
 </p>
 
